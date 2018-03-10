@@ -1,15 +1,10 @@
 /**
- *  Monoprice Z-Wave Plus Door/Window Sensor 1.2
- *  (P/N 15270)
- *
- *  Author: 
- *    Weikai Zhang
- *  Modified using Kevin LaFramboise (krlaframboise)'s Monoprice Z-Wave Door/Windows sensor handler
- *
- *  URL to documentation:  https://community.smartthings.com/t/release-monoprice-z-wave-plus-door-window-sensor/70478
- *    
- * 
- */
+* Monoprice Z-Wave DIY Smoke Detector
+*
+* Author: Weikai Zhang
+* Date: 2018-03-10
+*/
+
 metadata {
 	definition (
 		name: "Monoprice Z-Wave Smoke Detector", 
